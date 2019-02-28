@@ -1,0 +1,36 @@
+# doc/txt/livy-rester/func/start-spark-interative-session.func.txt
+
+	doStartSparkInterativeSession
+	
+	# Purpose:
+	# ------------------------------------------------------
+	-- todo: what is the purpose of the doStartSparkInterativeSession function
+
+	# Prequisites
+	# ------------------------------------------------------
+	-- todo: what are the prerequisites of the doStartSparkInterativeSession function
+
+	# Installation
+	# ------------------------------------------------------
+	-- todo: what are the required installations for the  
+		doStartSparkInterativeSession function to execute without errors
+
+	# Interdependancies
+	# ------------------------------------------------------
+	-- todo: what are the interdependancies for the  
+		doStartSparkInterativeSession function to execute without errors
+
+	# Usage:
+	# ------------------------------------------------------
+	-- todo: how can be the doStartSparkInterativeSession used 
+
+	# Developent
+	# ------------------------------------------------------
+	-- todo: what issues, todos could be pointed for development
+
+	# Caveats:
+	# ------------------------------------------------------
+	-- todo: what are the known caveats of the doStartSparkInterativeSession functions
+
+
+# eof file: doc/txt/livy-rester/func/start-spark-interative-session.func.txt

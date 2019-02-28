@@ -1,0 +1,36 @@
+# doc/txt/livy-rester/help/check-spark-session-status.help.txt
+
+	doHelpCheckSparkSessionStatus
+	
+	# Purpose:
+	# ------------------------------------------------------
+	-- todo: what is the purpose of the doHelpCheckSparkSessionStatus function
+
+	# Prequisites
+	# ------------------------------------------------------
+	-- todo: what are the prerequisites of the doHelpCheckSparkSessionStatus function
+
+	# Installation
+	# ------------------------------------------------------
+	-- todo: what are the required installations for the  
+		doHelpCheckSparkSessionStatus function to execute without errors
+
+	# Interdependancies
+	# ------------------------------------------------------
+	-- todo: what are the interdependancies for the  
+		doHelpCheckSparkSessionStatus function to execute without errors
+
+	# Usage:
+	# ------------------------------------------------------
+	-- todo: how can be the doHelpCheckSparkSessionStatus used 
+
+	# Developent
+	# ------------------------------------------------------
+	-- todo: what issues, todos could be pointed for development
+
+	# Caveats:
+	# ------------------------------------------------------
+	-- todo: what are the known caveats of the doHelpCheckSparkSessionStatus functions
+
+
+# eof file: doc/txt/livy-rester/help/check-spark-session-status.help.txt

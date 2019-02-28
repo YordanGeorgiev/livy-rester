@@ -1,0 +1,6 @@
+start-spark-interative-session
+check-spark-session-status
+stop-spark-interative-session
+run-spark-code-snippet
+check-spark-code-status
+action-to-remove

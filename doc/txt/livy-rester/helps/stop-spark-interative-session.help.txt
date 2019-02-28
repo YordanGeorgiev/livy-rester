@@ -1,0 +1,36 @@
+# doc/txt/livy-rester/help/stop-spark-interative-session.help.txt
+
+	doHelpStopSparkInterativeSession
+	
+	# Purpose:
+	# ------------------------------------------------------
+	-- todo: what is the purpose of the doHelpStopSparkInterativeSession function
+
+	# Prequisites
+	# ------------------------------------------------------
+	-- todo: what are the prerequisites of the doHelpStopSparkInterativeSession function
+
+	# Installation
+	# ------------------------------------------------------
+	-- todo: what are the required installations for the  
+		doHelpStopSparkInterativeSession function to execute without errors
+
+	# Interdependancies
+	# ------------------------------------------------------
+	-- todo: what are the interdependancies for the  
+		doHelpStopSparkInterativeSession function to execute without errors
+
+	# Usage:
+	# ------------------------------------------------------
+	-- todo: how can be the doHelpStopSparkInterativeSession used 
+
+	# Developent
+	# ------------------------------------------------------
+	-- todo: what issues, todos could be pointed for development
+
+	# Caveats:
+	# ------------------------------------------------------
+	-- todo: what are the known caveats of the doHelpStopSparkInterativeSession functions
+
+
+# eof file: doc/txt/livy-rester/help/stop-spark-interative-session.help.txt

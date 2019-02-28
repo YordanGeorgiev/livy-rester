@@ -1,0 +1,36 @@
+# doc/txt/livy-rester/test/run-spark-code-snippet.test.txt
+
+	doTestRunSparkCodeSnippet
+	
+	# Purpose:
+	# ------------------------------------------------------
+	-- todo: what is the purpose of the doTestRunSparkCodeSnippet function
+
+	# Prequisites
+	# ------------------------------------------------------
+	-- todo: what are the prerequisites of the doTestRunSparkCodeSnippet function
+
+	# Installation
+	# ------------------------------------------------------
+	-- todo: what are the required installations for the  
+		doTestRunSparkCodeSnippet function to execute without errors
+
+	# Interdependancies
+	# ------------------------------------------------------
+	-- todo: what are the interdependancies for the  
+		doTestRunSparkCodeSnippet function to execute without errors
+
+	# Usage:
+	# ------------------------------------------------------
+	-- todo: how can be the doTestRunSparkCodeSnippet used 
+
+	# Developent
+	# ------------------------------------------------------
+	-- todo: what issues, todos could be pointed for development
+
+	# Caveats:
+	# ------------------------------------------------------
+	-- todo: what are the known caveats of the doTestRunSparkCodeSnippet functions
+
+
+# eof file: doc/txt/livy-rester/test/run-spark-code-snippet.test.txt

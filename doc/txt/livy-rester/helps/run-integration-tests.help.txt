@@ -1,0 +1,11 @@
+# doc/txt/livy-rester/help/run-integration-tests.help.txt
+
+	doHelpRunIntegrationTests
+
+	# Usage:
+	# ------------------------------------------------------
+   bash src/bash/livy-rester/livy-rester.sh -a run-integration-tests
+   
+   runs all the unit tests in the application -> use also as regression testing 
+
+# eof file: doc/txt/livy-rester/help/run-integration-tests.help.txt

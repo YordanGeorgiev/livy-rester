@@ -1,0 +1,36 @@
+# doc/txt/livy-rester/spec/check-spark-code-status.spec.txt
+
+	doSpecCheckSparkCodeStatus
+	
+	# Purpose:
+	# ------------------------------------------------------
+	-- todo: what is the purpose of the doSpecCheckSparkCodeStatus function
+
+	# Prequisites
+	# ------------------------------------------------------
+	-- todo: what are the prerequisites of the doSpecCheckSparkCodeStatus function
+
+	# Installation
+	# ------------------------------------------------------
+	-- todo: what are the required installations for the  
+		doSpecCheckSparkCodeStatus function to execute without errors
+
+	# Interdependancies
+	# ------------------------------------------------------
+	-- todo: what are the interdependancies for the  
+		doSpecCheckSparkCodeStatus function to execute without errors
+
+	# Usage:
+	# ------------------------------------------------------
+	-- todo: how can be the doSpecCheckSparkCodeStatus used 
+
+	# Developent
+	# ------------------------------------------------------
+	-- todo: what issues, todos could be pointed for development
+
+	# Caveats:
+	# ------------------------------------------------------
+	-- todo: what are the known caveats of the doSpecCheckSparkCodeStatus functions
+
+
+# eof file: doc/txt/livy-rester/spec/check-spark-code-status.spec.txt
